@@ -1,0 +1,16 @@
+﻿image,seed,rows,cols,mode,cost,seconds,absolute_position,absolute_neighbors,absolute_rotation,aligned_position,aligned_neighbors,aligned_rotation,alignment_degrees_ccw,exact_pixels
+bird.jpg,42,3,3,edge,0.081462,0.44,9,12,9,9,12,9,0,True
+bird.jpg,42,3,3,combined,0.092039,0.4,1,12,0,9,12,9,270,False
+bird.jpg,42,3,3,deep_only,0.004288,1.36,0,4,1,0,4,5,90,False
+bird.jpg,42,3,3,combined_deep,0.098826,1.42,1,12,0,9,12,9,180,False
+bird.jpg,42,3,3,full,0.101819,1.63,1,12,0,9,12,9,180,False
+forest.jpg,42,3,3,edge,0.328114,0.43,9,12,9,9,12,9,0,True
+forest.jpg,42,3,3,combined,0.343054,0.39,9,12,9,9,12,9,0,True
+forest.jpg,42,3,3,deep_only,0.002646,1.31,0,7,0,5,7,6,180,False
+forest.jpg,42,3,3,combined_deep,0.345691,1.37,1,12,0,9,12,9,180,False
+forest.jpg,42,3,3,full,0.347158,1.65,1,12,0,9,12,9,180,False
+night_sky.jpg,42,3,3,edge,0.091917,0.37,0,9,9,0,9,9,0,False
+night_sky.jpg,42,3,3,combined,0.100469,0.45,0,9,9,0,9,9,0,False
+night_sky.jpg,42,3,3,deep_only,0.004743,1.28,9,12,9,9,12,9,0,True
+night_sky.jpg,42,3,3,combined_deep,0.10514,1.37,0,9,9,0,9,9,0,False
+night_sky.jpg,42,3,3,full,0.107139,1.63,0,9,9,0,9,9,0,False
